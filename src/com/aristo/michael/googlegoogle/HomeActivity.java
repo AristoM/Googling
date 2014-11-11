@@ -66,7 +66,7 @@ public class HomeActivity extends Activity {
 						public void run() {
 							backPressedToExitOnce = false;
 						}
-					}, 2000);
+					}, 1000);
 				}
 				return true;
 			}
